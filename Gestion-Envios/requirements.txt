@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlmodel
+mysqlclient
+pydantic
+sqlalchemy
+pymysql
+httpx
